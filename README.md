@@ -14,3 +14,7 @@ This board adds support for many of the www.adafruit.com feather boards so they 
 Below is the adapter using the Adafruit oled feather running Arduino software.
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560_Adapter/blob/master/Adapter_Running.jpg "Running Board")
+
+.
+
+![alt text](https://github.com/Sd4Projects/MiniMega2560_Adapter/blob/master/adapter3boards.jpg "3 Board")
