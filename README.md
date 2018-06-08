@@ -1,7 +1,7 @@
 # MiniMega2560_Adapter
 Adapter board to support Adafruit Feather boards using MiniMega2560 cpu 3.3 volt version
 
-The board can be found at OSH Park.  https://oshpark.com/shared_projects/8O2zX7Le  with project name MiniMega2560v04AdapterV10.1a
+The bare board can be found at OSH Park.  https://oshpark.com/shared_projects/8O2zX7Le  with project name MiniMega2560v04AdapterV10.1a
 
 Schematic file: MiniMega2560v04AdapterV10.1a_SC.pdf
 
