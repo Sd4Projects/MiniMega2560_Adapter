@@ -15,6 +15,7 @@ Below is the adapter using the Adafruit oled feather running Arduino software.
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560_Adapter/blob/master/Adapter_Running.jpg "Running Board")
 
-.
+
+MiniMega2560-CPU , Adapter, Oled
 
 ![alt text](https://github.com/Sd4Projects/MiniMega2560_Adapter/blob/master/adapter3boards.jpg "3 Board")
